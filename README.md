@@ -18,5 +18,5 @@ __Have a work item you want to contribute?__ Please
 __Want to propose a change to how this repo works?__ Please
 [send a PR to the README](https://github.com/snoyberg/haskell-hackathon/edit/master/README.md)
 or
-[CONTRIBUTING](https://github.com/snoyberg/haskell-hackathon/edit/master/CONTRIBUTING.md)
+[ISSUE\_TEMPLATE](https://github.com/snoyberg/haskell-hackathon/edit/master/.github/ISSUE_TEMPLATE.md)
 files.
