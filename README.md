@@ -12,6 +12,12 @@ people to participate. Also, if all goes well, I intend to keep
 running this repository after the LambdaConf conference for other
 Hackathons, both in-person and virtual.
 
+__Want to work on an item at the Hackathon?__ Please [browse the
+issues](https://github.com/snoyberg/haskell-hackathon/issues), and add a
+comment if you're going to start working on something. If you decide to give
+up, please be considerate of others and add a comment that you've moved on to
+something else!
+
 __Have a work item you want to contribute?__ Please
 [add a new issue](https://github.com/snoyberg/haskell-hackathon/issues/new).
 
